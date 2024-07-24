@@ -5,6 +5,7 @@
 - ⚡ Fun fact: ...
 
 - PROJECTS: 
+
 👀	Cloud Infrastructure Set up in Aws
 🤷‍♂️Project Title: AWS VPC Deployment with Public & Private Subnets in Production Environment
 Description: Designed and implemented a robust AWS infrastructure utilizing a range of services to support a scalable and secure production environment.
